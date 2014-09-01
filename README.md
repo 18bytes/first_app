@@ -1,4 +1,3 @@
-rails_app
-=========
+# Rails tutorial
 
-Ruby on rails tutorial
+This is the first application for [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org) by Michael Hartl 
